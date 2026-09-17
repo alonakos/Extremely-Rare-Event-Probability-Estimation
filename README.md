@@ -1,4 +1,4 @@
-# Quantum Sampler for Extremely Rare-Event Probability Estimation
+# Quantum Sampler for Extremely Rare-Event Probability 
 
 
 Exploratory work on quantum circuit representations for rare-event probability estimation.
